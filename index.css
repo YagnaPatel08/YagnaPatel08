@@ -92,7 +92,7 @@
         cursor: pointer;
         padding: 0px 20px;
         transition: 0.3s;
-        font-size: 19px;
+        font-size: 25px;
         color: white;
       
       }
@@ -154,3 +154,10 @@
       .ul{
          align-self: center;
       }
+      p.ex1 {
+        margin-top: 50px;
+      }
+
+    
+    
+      
