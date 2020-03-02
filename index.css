@@ -78,7 +78,7 @@
       .tab {
         overflow: hidden;
         
-        background-color: #323232;
+        background-color:#323232;
         
       }
       
@@ -94,7 +94,7 @@
         transition: 0.3s;
         font-size: 25px;
         color: white;
-      
+        
       }
       
       /* Change background color of buttons on hover */
@@ -111,7 +111,7 @@
       .tabcontent {
         display: none;
         padding: 6px 12px;
-        
+      
         border-top: none; 
         
       }
@@ -162,7 +162,7 @@
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color: red;
+        background-color:#0d7377;
         color: white;
         text-align: center;
       }
